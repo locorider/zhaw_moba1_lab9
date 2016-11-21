@@ -1,4 +1,4 @@
-# MOBA1 Lab 8
+# MOBA1 Lab 9
 
 ## Playground
 Inside the `playground` folder is the solution for the tasks 1 to 3.
